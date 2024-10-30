@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_1</string>
+    <string name="text1">RED</string>
+    <string name="text2">BLUE</string>
+    <string name="text3">GREEN</string>
+    <string name="text4">MAGENTA</string>
+    <string name="text5">CYAN</string>
+</resources>
